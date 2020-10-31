@@ -1,0 +1,1 @@
+Referred https://numpy.org/doc/stable/index.html for numpy functions
