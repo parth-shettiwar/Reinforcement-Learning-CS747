@@ -17,7 +17,6 @@ def MDP(algorithm = 0,num_actions=8, aplha = 0.5, epsilon = 0.1,stoch = 0,seed =
   start = 30
   end = 37
   reward_grid = -1*np.ones((num_states)) 
-  reward_grid[37] = 1
   tot = np.zeros((1))
   zz = np.zeros((1))
   Q = np.zeros((num_states,num_actions))
